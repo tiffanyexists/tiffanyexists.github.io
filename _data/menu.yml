@@ -1,0 +1,36 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: info
+    entries:
+      - title: Tiffany evolved to cyber, here you can see silly txt, silly jams and silly art-work, out of tiffany's mind.
+      - title: Album
+        url: Album.html
+      - title: Bandcamp
+        url: https://bandcamp.com
+      - title: "<a href='mailto:nowhere@mozilla.org'>Send email to tiffany</a>"
+
+  - title: text posts
+    post_list:
+      category: txt
+      limit: 2
+      show_more: true
+      show_more_text: See more text posts...
+      show_more_url: archive-txt.html
+
+  - title: jams audio/mp3/whatever posts
+    post_list:
+      category: jams
+      limit: 2
+      show_more: true
+      show_more_text: See more jam posts...
+      show_more_url: archive-jams.html
+
+  - title: art-work posts
+    post_list:
+      category: art-work
+      limit: 2
+      show_more: true
+      show_more_text: See more art-work posts...
+      show_more_url: archive-art-work.html
