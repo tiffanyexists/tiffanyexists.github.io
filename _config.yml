@@ -1,7 +1,7 @@
 title: Tiffany the band # name of the site
 author: Tiffany# name of site's author
 email: tiffanytheband@gmail.com # email of site's author
-url: https://laaw348.github.io # root address of the site
+url: tiffanyexists.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   Tiffany band, tiffany garage band uses the web to post silly content.
@@ -15,7 +15,7 @@ remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
   back_home_text: "<-" # customize text for homepage link in post layout
-  date_format: "%d-%m-%Y" # customize how date is formatted
+  date_format: "%Y" # customize how date is formatted
   show_date: false
   show_description: false # show blog description in home page
 

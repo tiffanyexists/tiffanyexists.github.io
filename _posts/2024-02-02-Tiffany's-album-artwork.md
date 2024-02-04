@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tiffany's album artwork
-category: txt
+category: art-work
 ---
 ### tiffany's artwork
 Our fresh new album is almost alive

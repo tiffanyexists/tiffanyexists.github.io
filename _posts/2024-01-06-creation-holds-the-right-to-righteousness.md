@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "creation holds the right to righteousness"
-category: jams
+category: txt
 ---
-### Created a creation that upholds the right to righteousness
+#### Created a creation that upholds the right to righteousness
 
 Blah blah kai ola kala '~~'
