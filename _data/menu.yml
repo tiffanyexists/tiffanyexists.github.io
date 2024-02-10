@@ -2,25 +2,20 @@
 entries:
   - title: info
     entries:
-      - title: Tiffany evolved to cyber, here you can see silly txt, silly jams and silly art-work.
+      # - title: Tiffany evolved to cyber, here you can see silly txt, silly jams and silly art-work.
       - title: Album
         url: Album.html
       - title: Bandcamp
         url: https://bandcamp.com
       - title: "<a href='mailto:nowhere@mozilla.org'>Send email to tiffany</a>"
 
-  - title: text posts
-    post_list:
-      category: txt
-      limit: 5
-      show_more: true
-      show_more_text: See more text posts...
-      show_more_url: archive-txt.html
 
-  - title: jams audio/mp3/whatever posts
+# theloume section gia permanent pages
+
+  - title: jams audio/mp3/whatever audio posts
     post_list:
       category: jams
-      limit: 5
+      limit: 2
       show_more: true
       show_more_text: See more jam posts...
       show_more_url: archive-jams.html
@@ -28,7 +23,15 @@ entries:
   - title: art-work posts
     post_list:
       category: art-work
-      limit: 5
+      limit: 2
       show_more: true
       show_more_text: See more art-work posts...
       show_more_url: archive-art-work.html
+
+  - title: text posts
+    post_list:
+      category: txt
+      limit: 2
+      show_more: true
+      show_more_text: See more text posts...
+      show_more_url: archive-txt.html

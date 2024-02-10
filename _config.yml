@@ -4,7 +4,7 @@ email: tiffanytheband@gmail.com # email of site's author
 url: tiffanyexists.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  Tiffany band, tiffany garage band uses the web to post silly content.
+  Tiffany evolved to cyber, here you can see silly txt, silly jams and silly art-work.
 permalink: /:slug.html
 
 favicon: "favicon.ico" # name+extension of favicon (which must be put on the root folder)
@@ -17,7 +17,7 @@ theme_config:
   back_home_text: "<-" # customize text for homepage link in post layout
   date_format: "%Y" # customize how date is formatted
   show_date: false
-  show_description: false # show blog description in home page
+  show_description: true # show blog description in home page
 
 sass:
   style: :compressed

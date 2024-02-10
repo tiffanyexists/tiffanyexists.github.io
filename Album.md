@@ -2,7 +2,6 @@
 layout: page
 title: Album
 ---
-# TIFFANY
 
 ```
 -----------------------------
@@ -11,39 +10,98 @@ title: Album
        (   )      (   )      
 --------"-"--------"-"-------
 ```
-![vinyl_cover](/assets/img/vinyl_album.png)
+
+---
+
+<!-- edw na bei double side cover img -->
+<!-- na ksefugei apo to plaisio -->
+![vinyl_cover](/assets/img/album/double-side-teliko.jpg)
+
 
 ---
 
 # SIDE A
-
-- [Track 1a](#track-1a)
-- [Track 2a](#track2a)
-- [Track 3a](#track-3a)
-
-## [Track 1a](#track-1a)
-QQQQuisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc. Sed massa quam, auctor in eros quis, porttitor tincidunt orci. Nulla convallis id sapien ornare viverra. Cras nec est lacinia ligula porta tincidunt. Nam a est eget ligula pellentesque posuere. Maecenas quis enim ac risus accumsan scelerisque. Aliquam vitae libero sapien. Etiam convallis, metus nec suscipit condimentum, quam massa congue velit, sit amet sollicitudin nisi tortor a lectus. Cras a arcu enim. Suspendisse hendrerit euismod est ac gravida.
-
-## [Track 2a](#track2a)
-Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc. Sed massa quam, auctor in eros quis, porttitor tincidunt orci. Nulla convallis id sapien ornare viverra. Cras nec est lacinia ligula porta tincidunt. Nam a est eget ligula pellentesque posuere. Maecenas quis enim ac risus accumsan scelerisque. Aliquam vitae libero sapien. Etiam convallis, metus nec suscipit condimentum, quam massa congue velit, sit amet sollicitudin nisi tortor a lectus. Cras a arcu enim. Suspendisse hendrerit euismod est ac gravida.
-
-## [Track 3a](#track-3a)
-Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc. Sed massa quam, auctor in eros quis, porttitor tincidunt orci. Nulla convallis id sapien ornare viverra. Cras nec est lacinia ligula porta tincidunt. Nam a est eget ligula pellentesque posuere. Maecenas quis enim ac risus accumsan scelerisque. Aliquam vitae libero sapien. Etiam convallis, metus nec suscipit condimentum, quam massa congue velit, sit amet sollicitudin nisi tortor a lectus. Cras a arcu enim. Suspendisse hendrerit euismod est ac gravida.
-
+![vinyl_cover](/assets/img/album/tiff-alb-front.jpg)
 
 ---
 
+- [applepie](#track-1a)
+- [sally](#track2a)
+- [mother's milk](#mother's-milk)
+- [TV obligation](#track-4a)
+- [symptom](#track-5a)
+
+## [applepie](#track-1a)
+In the eye eye eye <br> 
+don't shoot me in the eye<br>
+i must hurry to avoid that guy<br>
+i want to eat my applepie<br>
+
+
+## [sally](#track2a)
+Remember the blue butterfly<br>
+when sally starts losing her mind<br>
+the sky became so raw<br>
+and dogs transform into cows<br>
+
+witches spells open heads and lion legs
+
+## [mother's milk](#mother's-milk)
+remember your mum<br>
+remember her milk<br>
+remember her big hug
+
+## [TV obligation](#track-4a)
+your life is<br>
+your life is<br>
+TV obligation & some kids
+
+## [symptom](#track-5a)
+good morning eat shit<br>
+gazzle liquor<br>
+ruthlessly<br>
+
+i want to kill<br>
+i want to kill your mama
+
+
+
+---
 # SIDE B
 
-- [Track 1b](#track1b)
-- [Track 2b](#track2b)
-- [Track 3b](#track3b)
+![vinyl_cover](/assets/img/album/tiff-alb-back.jpg)
 
-## [Track 1b](#track1b)
-Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc. Sed massa quam, auctor in eros quis, porttitor tincidunt orci. Nulla convallis id sapien ornare viverra. Cras nec est lacinia ligula porta tincidunt. Nam a est eget ligula pellentesque posuere. Maecenas quis enim ac risus accumsan scelerisque. Aliquam vitae libero sapien. Etiam convallis, metus nec suscipit condimentum, quam massa congue velit, sit amet sollicitudin nisi tortor a lectus. Cras a arcu enim. Suspendisse hendrerit euismod est ac gravida.
+---
 
-## [Track 2b](#track2b)
-Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc. Sed massa quam, auctor in eros quis, porttitor tincidunt orci. Nulla convallis id sapien ornare viverra. Cras nec est lacinia ligula porta tincidunt. Nam a est eget ligula pellentesque posuere. Maecenas quis enim ac risus accumsan scelerisque. Aliquam vitae libero sapien. Etiam convallis, metus nec suscipit condimentum, quam massa congue velit, sit amet sollicitudin nisi tortor a lectus. Cras a arcu enim. Suspendisse hendrerit euismod est ac gravida.
+- [intro](#track1b)
+- [junkfood](#track2b)
+- [dead](#track3b)
+- [suzie](#track4b)
+- [tits](#track5b)
 
-## [Track 3b](#track3b)
-Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc. Sed massa quam, auctor in eros quis, porttitor tincidunt orci. Nulla convallis id sapien ornare viverra. Cras nec est lacinia ligula porta tincidunt. Nam a est eget ligula pellentesque posuere. Maecenas quis enim ac risus accumsan scelerisque. Aliquam vitae libero sapien. Etiam convallis, metus nec suscipit condimentum, quam massa congue velit, sit amet sollicitudin nisi tortor a lectus. Cras a arcu enim. Suspendisse hendrerit euismod est ac gravida.
+## [intro](#track1b)
+no comments
+
+## [junkfood](#track2b)
+kill it!<br>
+kill it!<br>
+kill it!
+
+## [dead](#track3b)
+The sun's already dead<br>
+i broke my right leg<br>
+i want to run away but i have one leg<br>
+
+dead left drunk<br>
+i 'm dead
+
+## [suzie](#track4b)
+she was she was<br>
+she was naked in the bathroom
+
+## [tits](#track5b)
+could i<br>
+could i<br>
+kick your face
+
+

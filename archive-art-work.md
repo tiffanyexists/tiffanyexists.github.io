@@ -1,5 +1,5 @@
 ---
 layout: archive
-title: Archive for jams.
+title: Archive for art-work.
 which_category: art-work
 ---
