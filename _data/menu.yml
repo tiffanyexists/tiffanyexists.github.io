@@ -9,13 +9,15 @@ entries:
         url: https://bandcamp.com
       - title: "<a href='mailto:nowhere@mozilla.org'>Send email to tiffany</a>"
 
-
-# theloume section gia permanent pages
+  - title: pinned pages
+    entries:
+      - title: bands and music tiffany likes
+        url: bands-music.html
 
   - title: jams audio/mp3/whatever audio posts
     post_list:
       category: jams
-      limit: 2
+      limit: 5
       show_more: true
       show_more_text: See more jam posts...
       show_more_url: archive-jams.html
@@ -23,7 +25,7 @@ entries:
   - title: art-work posts
     post_list:
       category: art-work
-      limit: 2
+      limit: 5
       show_more: true
       show_more_text: See more art-work posts...
       show_more_url: archive-art-work.html
@@ -31,7 +33,7 @@ entries:
   - title: text posts
     post_list:
       category: txt
-      limit: 2
+      limit: 5
       show_more: true
       show_more_text: See more text posts...
       show_more_url: archive-txt.html

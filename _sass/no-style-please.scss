@@ -75,7 +75,7 @@ table, th, td {
 
 code {
   color: white;
-  background: #fd0031;
+  background: #eb1838;
 }
 
 div.highlighter-rouge code {
@@ -125,4 +125,16 @@ video {
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
+}
+
+#escape-body {
+width: 95vw;
+margin-left: 50%;
+transform: translateX(-50%);
+}
+
+#escape-body-poster {
+width: 60vw;
+margin-left: 50%;
+transform: translateX(-50%);
 }

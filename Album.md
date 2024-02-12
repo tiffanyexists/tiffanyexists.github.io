@@ -15,8 +15,10 @@ title: Album
 
 <!-- edw na bei double side cover img -->
 <!-- na ksefugei apo to plaisio -->
-![vinyl_cover](/assets/img/album/double-side-teliko.jpg)
-
+<!-- fix: https://stackoverflow.com/questions/7762307/escape-the-bounds-of-a-div-container -->
+<div id="escape-body">
+<img src="/assets/img/album/double-side-teliko.jpg">
+</div>
 
 ---
 
@@ -25,20 +27,20 @@ title: Album
 
 ---
 
-- [applepie](#track-1a)
-- [sally](#track2a)
-- [mother's milk](#mother's-milk)
-- [TV obligation](#track-4a)
-- [symptom](#track-5a)
+- [applepie](#applepie)
+- [sally](#sally)
+- [mother's milk](#mothersmilk)
+- [TV obligation](#TV-obligation)
+- [symptom](#symptom)
 
-## [applepie](#track-1a)
+## [applepie](#applepie)
 In the eye eye eye <br> 
 don't shoot me in the eye<br>
 i must hurry to avoid that guy<br>
 i want to eat my applepie<br>
 
 
-## [sally](#track2a)
+## [sally](#sally)
 Remember the blue butterfly<br>
 when sally starts losing her mind<br>
 the sky became so raw<br>
@@ -46,17 +48,17 @@ and dogs transform into cows<br>
 
 witches spells open heads and lion legs
 
-## [mother's milk](#mother's-milk)
+## [mother's milk](#mothersmilk)
 remember your mum<br>
 remember her milk<br>
 remember her big hug
 
-## [TV obligation](#track-4a)
+## [TV obligation](#TV-obligation)
 your life is<br>
 your life is<br>
 TV obligation & some kids
 
-## [symptom](#track-5a)
+## [symptom](#symptom)
 good morning eat shit<br>
 gazzle liquor<br>
 ruthlessly<br>
@@ -73,21 +75,21 @@ i want to kill your mama
 
 ---
 
-- [intro](#track1b)
-- [junkfood](#track2b)
-- [dead](#track3b)
-- [suzie](#track4b)
-- [tits](#track5b)
+- [intro](#intro)
+- [junkfood](#junkfood)
+- [dead](#dead)
+- [suzie](#suzie)
+- [tits](#tits)
 
-## [intro](#track1b)
+## [intro](#intro)
 no comments
 
-## [junkfood](#track2b)
+## [junkfood](#junkfood)
 kill it!<br>
 kill it!<br>
 kill it!
 
-## [dead](#track3b)
+## [dead](#dead)
 The sun's already dead<br>
 i broke my right leg<br>
 i want to run away but i have one leg<br>
@@ -95,13 +97,11 @@ i want to run away but i have one leg<br>
 dead left drunk<br>
 i 'm dead
 
-## [suzie](#track4b)
+## [suzie](#suzie)
 she was she was<br>
 she was naked in the bathroom
 
-## [tits](#track5b)
+## [tits](#tits)
 could i<br>
 could i<br>
 kick your face
-
-
