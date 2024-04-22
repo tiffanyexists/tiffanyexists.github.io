@@ -6,10 +6,10 @@ entries:
       - title: Album
         url: Album.html
       - title: Bandcamp
-        url: https://bandcamp.com
-      - title: "<a href='mailto:nowhere@mozilla.org'>Send email to tiffany</a>"
+        url: https://tiffanyexists.bandcamp.com/album/i-eye
+      - title: "<a href='mailto:tiffanyexists@gmail.com'>Send email to tiffany</a>"
 
-  - title: pinned pages
+  - title: tiffany got in flu enced by
     entries:
       - title: bands and music tiffany likes
         url: bands-music.html

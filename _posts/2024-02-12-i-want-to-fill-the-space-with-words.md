@@ -4,10 +4,10 @@ title: I want to fill the space with words
 category: txt
 ---
 
-### Asked chatGPT to serve me with nonsentical words.
+### Asked chatGPT to serve me with nonsensical words.
 I want to fill the space with words<br>
-I really want nonsentical words <br>
-I'd like to make nonsentical sense <br>
+I really want nonsensical words <br>
+I'd like to make nonsensical sense <br>
 My sense tells me im dumber than chatgpt <br>
 Cannot fill the space with words <br>
 Unable to be the filler, im dumber <br>
