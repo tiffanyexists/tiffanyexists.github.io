@@ -9,11 +9,6 @@ category: art-work
 
 ---
 
-<div id="escape-body">
-<img src="https://live.staticflickr.com/65535/53623785322_758d4272bb_o.jpg">
-</div>
-
----
 
 <embed src="https://live.staticflickr.com/65535/53625006539_0869c179f8_o.jpg
 " />
